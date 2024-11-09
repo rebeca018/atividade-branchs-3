@@ -13,7 +13,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
-    background-color: #B0FBB0;
+    background-color: #FBB47B;
     color: #fff;
     height: 70px;
 }
@@ -51,14 +51,14 @@ img {
 .pesquisa input {
     padding: 10px 15px; 
     font-size: 16px; 
-    border: 1px solid #B0FBB0; 
+    border: 1px solid #FBB47B; 
     border-radius: 5px 0 0 5px; 
     outline: none; 
 }
 
 .button-form{
     padding: 10px 15px; 
-    background-color: #e09fdf; 
+    background-color: #fff97e; 
     border: none; 
     border-radius: 0 5px 5px 0; 
     cursor: pointer;
