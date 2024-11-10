@@ -111,3 +111,24 @@ img {
     color: #fff97e;
 }
 
+footer div p {
+    margin: 0;                      
+    font-size: 16px;                
+    color: #fff;                   
+}
+
+.e {
+    display: flex;
+}
+
+.d {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: flex-end;
+}
+
+.details {
+    display: none; 
+}
+
